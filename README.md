@@ -41,7 +41,6 @@ A web-based Hospital Management System built with CodeIgniter (PHP) for managing
 - Backup and restore the database from the admin panel.
 
 ## Notes
-- For more projects, visit [codeastro.com](https://codeastro.com)
 - For any issues, ensure your PHP version is compatible and all required extensions are enabled.
 
 ## Problem Statement
